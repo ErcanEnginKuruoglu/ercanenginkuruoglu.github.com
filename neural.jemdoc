@@ -1,0 +1,37 @@
+# jemdoc: menu{MENU}{index.html}, footer
+==Neural Network Achitectures
+
+- Neural Networks are everywhere nowadays, being able to fit any arbitrary function in order to discern some truth about the 
+underlying data. When designing a Neural Network, the choice of architecture is of utmost importance, since a network too large 
+would result in a network unable to generalize to other data, and a network too small would be unable to accurately reflect the 
+underlying data distribution.
+
+- The typical way the architecture is chosen is via the architect's intuition based on their previous experience with various 
+Neural Network architectures. However, this relies heavily on the user's experience, and so automated ways of determining the 
+optimal architecture have recently come about. This emerging field of Auto-ML is critical in developing reliable systems that 
+can find the underlying truth of the data. 
+
+- Several research directions in this field involve the use of Genetic Algorithms and Particle Swarm Optimization to 
+determine the parameters. In this lab, we seek to use Bayesian-based methods to systematically determine optimal 
+Neural Network architectures, and do so in a method that guarantees a global optimum, while attempting to speed up the process 
+of reaching this state.
+
+- For applications of this research, by optimizing the networks in an automated fashion, it would be possible to create a Neural 
+Network architecture from scratch with no prior knowledge about the underlying network and what size works best. It also allows 
+us, by using Bayesian methods, to include the designer’s previous knowledge if they so choose. Secondly, it should shrink the 
+size of some Neural Networks that may be too large and over-tuned for the problem at hand, and enlarge those that are too 
+small, to optimize the resources available and specifically in the case of larger networks, not waste resources on 
+extraneous calculations. 
+
+~~~
+{}{img_left}{project/neural1.png}{alt text}{375}{200}{} \n 
+~~~
+
+~~~
+{}{img_left}{project/neural2.png}{alt text}{363}{220}{} \n 
+~~~
+
+
+
+
+

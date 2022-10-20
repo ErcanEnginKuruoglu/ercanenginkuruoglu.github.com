@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Stochastic Graphs</title>
+</head>
+<body>
+<table summary="Table for page layout." id="tlayout">
+<tr valign="top">
+<td id="layout-menu">
+<div class="menu-category">TVDS Group</div>
+<div class="menu-item"><a href="index.html" class="current">Home</a></div>
+<div class="menu-item"><a href="research.html">Research</a></div>
+<div class="menu-item"><a href="team.html">Team</a></div>
+<div class="menu-item"><a href="publications.html">Publications</a></div>
+<div class="menu-item"><a href="activities.html">Activities</a></div>
+</td>
+<td id="layout-content">
+<div id="toptitle">
+<h1>Stochastic Graphs</h1>
+<div id="subtitle">
+</div>
+</div>
+<ul>
+<li><p>Recently emerged Graph signal processing (GSP) techniques provide efficient solutions to deal with irregularly structured 
+data. GSP techniques have already been applied in modeling brain functional connectivity, spatial temperature 
+data, transportation flows, monitoring 5G signal strength, sensor networks in smart cities, structuring geometric data, and 
+modeling transportation flows. The spectral analysis of GSP is the backbone of the Graph Convolutional Neural network, 
+one of the most well-known graph deep learning architectures. 
+
+</p>
+</li>
+<li><p>Efficient and robust online processing techniques for irregularly structured data are crucial in the current era of data 
+abundance. Our current research on GSP focuses on the time-varying data that reside on the nodes of graphs. 
+The graphs are corrupted by impulsive noise and have missing node observations. Even more, the irregularity of graph structures 
+and the time-varying nature of data are extra layers of difficulty. To deal with these challenges, our research utilizes the GSP to process time-varying data in 
+the graph Spectral domain and combines GSP with classical adaptive filters to process time-varying graph signals. Previous GSP 
+algorithms assume the noise is Gaussian, A gross oversimplification that leads to often unstable estimations of real-world 
+data; our research on GSP breaks the Gaussian noise assumption by using lp norm optimization instead of l2 norm optimization.
+
+</p>
+</li>
+</ul>
+<table class="imgtable"><tr><td>
+<img src="project/statistic_graph.png" alt="alt text" width="350px" height="110px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<ul>
+<li><p>We proposed 2 adaptive graph algorithms, namely the graph Normalized least mean pth (GNLMP) algorithm and the Graph-Sign 
+algorithm, that solves the aforementioned problems. The GNLMP algorithm has faster runtime compared to its unnormalized 
+predecessor GLMP when estimating under alpha-stable noise without sacrificing accuracy. The Graph-Sign algorithm further 
+reduces the computational complexity compared to the graph LMS (GLMS), which is the simplest adaptive GSP algorithm before the 
+emergence of Graph-Sign. The Graph-Sign algorithm requires only 1/8 of the runtime compared to that of the graph LMS when estimating 
+the same graph signal under noise. The Graph-Sign algorithm shows robust estimation performance on non-gaussian noise modeled 
+using alpha-stable distribution, Cauchy distribution, student t’s distribution, and Laplace distribution. 
+
+
+
+</p>
+</li>
+</ul>
+<table class="imgtable"><tr><td>
+<img src="project/statistic_graph2.png" alt="alt text" width="310px" height="110px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<table class="imgtable"><tr><td>
+<img src="project/statistic_graph3.png" alt="alt text" width="400px" height="200px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<p>
+</p>
+<table class="imgtable"><tr><td>
+<img src="project/statistic_graph4.png" alt="alt text" width="290px" height="100px" />&nbsp;</td>
+<td align="left"></td></tr></table>
+<h2>Reference</h2>
+<p>1. Y. Yan, R. Adel, and E.E. Kuruoglu, Graph Normalized-LMP Algorithm for Signal Estimation Under Impulsive Noise. Journal of Signal Processing Systems, 2022, https:<i></i>doi.org<i>10.1007</i>s11265-022-01802-2. <br />
+2. Y. Yan, E. E. Kuruoglu, and M. A. Altinkaya, “Adaptive sign algorithm for graph signal processing,” Signal Processing, Volume 200, 2022, 108662, https:<i></i>doi.org<i>10.1016</i>j.sigpro.2022.108662. <br />
+3. Y. Yan, R. Adel, and E. E. Kuruoglu, &ldquo;Adaptive Normalized LMP Estimation for Graph Signal Processing,&rdquo; 2021 IEEE 31st International Workshop on Machine Learning for Signal Processing (MLSP), 2021, pp. 1-6, doi: 10.1109/MLSP52302.2021.9596181.<br />
+
+
+</p>
+<div id="footer">
+<div id="footer-text">
+Page generated 2022-10-17 20:34:56 中国标准时间, by <a href="https://github.com/wsshin/jemdoc_mathjax" target="blank">jemdoc+MathJax</a>.
+</div>
+</div>
+</td>
+</tr>
+</table>
+</body>
+</html>

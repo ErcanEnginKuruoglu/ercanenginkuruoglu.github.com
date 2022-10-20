@@ -1,0 +1,32 @@
+# jemdoc: menu{MENU}{index.html}, footer
+==Statistical Modelling for SAR Images based on Levy α-stable Distribution
+
+- Synthetic aperture radar (SAR) is a powerful radar technology commonly adopted for airborne and spaceborne 
+geo-sensing and mapping applications due to its significant advantages in high azimuthal resolution and weather-independent 
+operations. Upon acquisition of SAR images, a histogram representing the distribution of the image pixel values is drafted, 
+and a proper model is required to obtain precise knowledge of the statistical properties of the image data to 
+characterize the surface on which the image is produced. 
+
+- Several models have been established to approach SAR image data with considerable success, but they are either empirical models 
+with little theoretical support, or theoretical models based on the assumption of an area consisting of infinitesimal reflectors. 
+Such models tend to fail at modelling heavy-tailed scenarios like urban districts with countless buildings and cars that 
+contribute to a heterogeneous collection of strong reflectance.
+
+- We thereby aim to develop a unique set of SAR image models based on the Levy α-stable distribution as suggested by the Generalized 
+Central Limit Theorem. Such models enjoy both sufficient theoretical support and availability to strongly heterogeneous data 
+populations, enabling them with arguable competitivity in the analysis of SAR image data and other complex image signals.
+
+~~~
+{}{img_left}{project/remote_sensing1.png}{alt text}{320}{140}{} \n 
+~~~
+
+~~~
+{}{img_left}{project/remote_sensing2.png}{alt text}{320}{140}{} \n 
+~~~
+
+
+== Reference
+1. Karakus O, Kuruoglu E E, Achim A, et al. Cauchy–Rician Model for Backscattering in Urban SAR Images. IEEE Geoscience and Remote Sensing Letters, 2022, 19: 1-5.\n
+
+
+
