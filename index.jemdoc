@@ -15,12 +15,21 @@ Time-Varying Data Science (TVDS) Group\n
 Computational Biology and Geosciences, Remote Sensing, etc. We are looking for the people with the same interest!\n 
 
 
-== Opportunities
-  One postdoctoral research position and two Ph.D. studentships are available within the topics:\n
-  1. Time-varying networks or graphs;\n
-  2. Dynamic neural networks;\n
-  3. Bayesian neural networks.\n
-  Please contact [kuruoglu@sz.tsinghua.edu.cn kuruoglu@sz.tsinghua.edu.cn] with your CV and statement of interest.
+== Opportunities 
+-  Post-Doctoral Positions in Statistical Learning for Data Science\n
+Post-Doctoral Position (2 Years) in the Time-varying Data Science Group of Prof. Ercan E Kuruoglu, Institute of Information and Data Science and Tsinghua-Berkeley Shenzhen Institute of Tsinghua University Shenzhen International Graduate School, Shenzhen, China. This will start from 1 September 2023 and applications are considered until the positions are filled. \n
+
+
+- Postdoc 1: Topological Data Analysis for Statistical Learning\n
+Keywords: Topological data analysis, graph machine learning, time-varying graph analysis, rare event modelling\n
+The objective is to develop ground-breaking topological signal processing and statistical learning methods for high-dimensional data. The focus lies on conducting fundamental research to derive scalable methods with robustness and statistical guarantees that form a bridge between existing topological data analysis methods and statistical learning methods with an eye on applications with time-varying data. Various applications including climate data, financial data, genomic data will be considered though the main emphasis will be in methodology development.\n
+
+- Postdoc 2: Stochastic deep learning \n
+Keywords: Bayesian machine learning, non-stationary data analysis\n
+This project aims to develop a deep learning methodology which is dynamic and statistical at the same time, that is non-deterministic and non-stationary. We will explore various methods from signal processing extending them to nonlinear systems and hence applying to neural networks.\n
+\n
+
+Applicants should have, e.g., a PhD in electrical or electronics or information engineering with a specialization in signal processing or statistical learning, or a PhD in mathematics (topology, statistics, functional analysis). You should have a track record in your research field, as evidenced by publications in top quality journals. To apply for this position, please send your CV, a one-page personal statement, full contact details of two referees, transcripts and publications to kuruoglu@sz.tsinghua.edu.cn
 
 
 
