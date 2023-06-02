@@ -10,11 +10,16 @@
 - Graphical Models
 - Information and Coding Theory
 
-== Projects
+== Ongoing Projects
 - [stochastic_graphs.html Stochastic Graphs]
 - [remote_sensing.html Remote Sensing]
 - [bl.html Bayesian Learning]
-- [geo.html Data Science for Geosciences]
 - [neural.html Network Architectures]
+
+== Completed Projects
+- SARS-CoV-2 Gene Sequence Mutations Modeling: [https://github.com/mavericklim91/Modeling-SARS-CoV-2-Nucleotide-Mutations Stochastic Approach], [https://github.com/mavericklim91/Modeling-SARS-CoV-2-viral-escape-mutations Data-driven Approach]
+- [https://github.com/poorichc/A-Metaheuristic-Approach-to-the-Multi-period-Reliable-Location-Problem-in-Time-Varying-Risk Metaheuristic Approach for Multi-period Reliable Location Problem in Time-Varying Risk]
+- [geo.html Data Science for Geosciences]
+
 
 

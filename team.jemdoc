@@ -14,7 +14,7 @@ Professor, Ph.D. Supervisor\n E-mail: kuruoglu@sz.tsinghua.edu.cn\n
 ~~~
 {}{img_left}{photo/yanyi.jpg}{alt text}{100}{110}{}
 Yi Yan\n 
-Topic: Stochastic graphs\n
+#Topic: Stochastic graphs\n
 ~~~
 
 ~~~
@@ -24,20 +24,11 @@ Dayu Qin\n
 
 == Master Students
 
-~~~
-{}{img_left}{photo/MaverickLim.jpg}{alt text}{100}{110}{}
-Maverick Lim\n 
-~~~
 
 ~~~
 {}{img_left}{photo/LIMutong.jpg}{alt text}{100}{110}{}
 Mutong Li\n 
-Topic: Remote sensing\n
-~~~
-
-~~~
-{}{img_left}{photo/PoorichC.jpg}{alt text}{100}{110}{}
-Poorich Chatchaipaiboon\n 
+#Topic: Remote sensing\n
 ~~~
 
 
@@ -54,7 +45,7 @@ Radwa Adel\n
 ~~~
 {}{img_left}{photo/Mengen Luo.jpg}{alt text}{100}{110}{}
 Mengen Luo\n 
-Topic: Bayesian learning\n
+#Topic: Bayesian learning\n
 ~~~
 
 
@@ -67,7 +58,7 @@ Zhendong Shi\n
 ~~~
 {}{img_left}{photo/Fengfan Zhao.jpg}{alt text}{100}{110}{}
 Fengfan Zhao\n 
-Topic: Statistical machine learning\n
+#Topic: Statistical machine learning\n
 ~~~
 
 ~~~
@@ -78,7 +69,7 @@ Changran Peng\n
 ~~~
 {}{img_left}{photo/PeterMarsh.jpg}{alt text}{100}{110}{}
 Peter Marsh\n 
-Topic: Neural network hyperparameter optimization, neural architecture search\n
+#Topic: Neural network hyperparameter optimization, neural architecture search\n
 ~~~
 
 ~~~
@@ -104,7 +95,7 @@ Jipeng Li\n
 ~~~
 {}{img_left}{photo/Suchanun Piriyasatit.jpg}{alt text}{100}{110}{}
 Suchanun Piriyasatit\n
-Topic: Earthquake data analysis\n 
+#Topic: Earthquake data analysis\n 
 ~~~
 
 ~~~
@@ -119,10 +110,27 @@ Menghao Zhu\n
 
 
 == Alumni
+
+~~~
+{}{img_left}{photo/MaverickLim.jpg}{alt text}{100}{110}{}
+Maverick Lim\n 
+Master, 2023, co-advised with Prof. Wai Kin (Victor) Chan\n 
+Thesis: Modeling SARS-CoV-2 Gene Sequence  Mutations with Stochastic and  Data-driven Approaches\n
+~~~
+
+
+~~~
+{}{img_left}{photo/PoorichC.jpg}{alt text}{100}{110}{}
+Poorich Chatchaipaiboon\n 
+Master, 2023, co-advised with Prof. Wai Kin (Victor) Chan\n 
+Thesis: A Metaheuristic Approach to the  Multi-period Reliable Location Problem in  Time Varying Risk\n
+~~~
+
+
 ~~~
 {}{img_left}{photo/JackKuo.jpg}{alt text}{100}{110}{}
 Jack Guo\n 
-Master, co-advised with Prof. Wai Kin (Victor) Chan\n 
+Master, 2022, co-advised with Prof. Wai Kin (Victor) Chan\n 
 Thesis: Neural Network Optimization\n
 Current affiliation: The founder of Shenzhen Jingwei Intelligent Technology Co., Ltd.
 #深圳精位智能科技有限公司
@@ -131,7 +139,7 @@ Current affiliation: The founder of Shenzhen Jingwei Intelligent Technology Co.,
 ~~~
 {}{img_left}{photo/Junping.jpg}{alt text}{100}{110}{}
 Junping Hong\n 
-Master, co-advised with Prof. Wai Kin (Victor) Chan\n 
+Master, 2022, co-advised with Prof. Wai Kin (Victor) Chan\n 
 Thesis: Graph-based Non-stationary Time Series Forecasting\n 
 Current affiliation: Research assitant in Tsinghua-Berkeley institute \n
 ~~~
@@ -139,7 +147,7 @@ Current affiliation: Research assitant in Tsinghua-Berkeley institute \n
 ~~~
 {}{img_left}{photo/keren.jpg}{alt text}{100}{110}{}
 Keren Artiaga\n 
-Master, co-advised with Prof. Wai Kin (Victor) Chan\n 
+Master, 2022, co-advised with Prof. Wai Kin (Victor) Chan\n 
 Thesis: Cross-Sign Language Transfer Learning using Domain Adaptation with Multi-scale Temporal Alignment\n 
 Current affiliation: Ph.D. study at Ghent University, Belguim\n
 ~~~
